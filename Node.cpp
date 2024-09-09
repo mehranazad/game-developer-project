@@ -1,7 +1,5 @@
 /*
-List class implementation for term projects
-CSCI 235 Fall 2022
-Hunter College
+List class implementation 
 */
 
 /*
