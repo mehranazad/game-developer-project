@@ -1,9 +1,7 @@
 //
 //  DoublyLinkedList.hpp
 //
-//  A doubly-liked list implementation for class project CSci 235 Software Design and Analysis II
-//
-//  Created by Tiziana Ligorio
+
 
 
 //
