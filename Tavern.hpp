@@ -1,6 +1,4 @@
 /*
-CSCI235 Fall 2023
-Project 4 - Tavern Class
 Mehran Azad
 Oct 27 2023
 Tavern.hpp declares the Tavern class along with its private and public members
