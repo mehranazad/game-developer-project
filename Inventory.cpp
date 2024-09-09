@@ -1,8 +1,5 @@
 /*
-CSCI235 Fall 2023
-Project 7 - Trinkets and Baubles
 Mehran Azad
-Dec 3, 2023
 Inventory.cpp declares the Inventory class and implements its private and public members
 */
 
