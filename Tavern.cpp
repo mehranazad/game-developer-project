@@ -1,7 +1,5 @@
 /*
-CSCI235 Fall 2023
 File Title: "Tavern.cpp"
-Project 4 - 
 Author: Mehran Azad
 Date: 10/27/23
 Implementation of Tavern Class of it's functions and constructors.
