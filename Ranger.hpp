@@ -1,6 +1,4 @@
 /*
-CSCI235 Fall 2023
-Project 4
 Mehran Azad
 Oct 27 2023
 Ranger.cpp defines the constructors and private and public function implementation of the Ranger class
