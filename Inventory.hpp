@@ -1,8 +1,5 @@
 /*
-CSCI235 Fall 2023
-Project 7 - Trinkets and Baubles
 Mehran Azad
-Dec 3, 2023
 Inventory.hpp declares the Inventory class along with its private and public members as a subclass of BST class
 */
 
