@@ -1,9 +1,8 @@
 //
 //  DoublyLinkedList.cpp
 //  List
-//  A doubly-liked list implementation for class project CSci 235 Software Design and Analysis II
+//  A doubly-liked list implementation 
 //
-//  Created by Tiziana Ligorio
 
 
 //
