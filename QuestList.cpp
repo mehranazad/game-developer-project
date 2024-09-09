@@ -2,9 +2,6 @@
  * File Title: QuestList.cpp
  * Author: Mehran Azad
  * Date: November 10, 2023
- * Course: CSCI-235
- * Instructor: Tiziana Ligorio
- * Assignment: Project 5
  * This file implements a class called QuestList
  */
 
