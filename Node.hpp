@@ -1,6 +1,4 @@
-//  Created by Frank M. Carrano and Timothy M. Henry.
-//  Copyright (c) 2017 Pearson Education, Hoboken, New Jersey.
-//  Modified by Tiziana Ligorio for CSCI 235 Hunter College 
+
 
 #ifndef NODE_HPP_
 #define NODE_HPP_
