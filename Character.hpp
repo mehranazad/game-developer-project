@@ -1,8 +1,5 @@
 /*
-CSCI235 Fall 2023
-Project 4
 Mehran Azad
-Oct 27 2023
 Character.hpp declares the Character class along with its private and public members
 */
 #ifndef CHARACTER_HPP_
