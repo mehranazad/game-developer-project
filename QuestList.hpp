@@ -1,10 +1,7 @@
 /*
  * File Title: Tavern.hpp
- * Author: Mahim Ali
+ * Author: Mehran Azad
  * Date: November 10, 2023
- * Course: CSCI-235
- * Instructor: Tiziana Ligorio
- * Assignment: Project 4
  * This file is the interface of a class called QuestList
  */
 #ifndef QUESTLIST_HPP_
