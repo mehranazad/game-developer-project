@@ -1,6 +1,4 @@
 /*
-CSCI235 Fall 2023
-Project 7 - Trinkets and Baubles
 Mehran Azad
 Dec 3, 2023
 Item.hpp declares the Item class along with its private and public members
