@@ -1,8 +1,6 @@
 /*
-ArrayBag interface for term project
-CSCI 235 Fall 2023
+ArrayBag interface for project
 Name: Mehran Azad
-- Modified for Project 6
 */
 
 #ifndef ARRAY_BAG_
