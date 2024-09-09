@@ -1,6 +1,5 @@
 
-/** A class of nodes for a link-based binary tree.
- Listing 16-2.
+
  @file BinaryNode.hpp */
  
 #ifndef BINARY_NODE_
